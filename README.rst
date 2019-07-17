@@ -1,3 +1,4 @@
+图神经网络资源学习库
 Literature of Deep Learning for Graphs
 **************************************
 This is a paper list about deep learning for graphs.
